@@ -1,0 +1,10 @@
+#pragma once
+#ifndef SLIM__COMMON__H
+#define SLIM__COMMON__H
+
+#include <slim/common/log.h>
+
+#define SLIMCOMMON_VERSION "0.0.0"
+#define SLIMCOMMON_GIT_HASH "local-src"
+
+#endif // SLIM__COMMON__H
