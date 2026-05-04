@@ -13,6 +13,7 @@ _deps/
 CMakeUserPresets.json
 build*/
 cmake
+dist
 
 # IDE
 .idea/
@@ -37,4 +38,4 @@ cmake-build-*/
 CMakeLists.txt
 Makefile
 cmake/
-slim_common_lib.pc.in
+
