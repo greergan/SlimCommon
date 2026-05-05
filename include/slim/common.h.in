@@ -4,7 +4,7 @@
 
 #include <slim/common/log.h>
 
-#define SLIMCOMMON_VERSION "0.0.0"
-#define SLIMCOMMON_GIT_HASH "local-src"
+#define SLIMCOMMON_VERSION "@SLIMCOMMON_VERSION@"
+#define SLIMCOMMON_GIT_HASH "@SLIMCOMMON_GIT_HASH@"
 
 #endif // SLIM__COMMON__H
