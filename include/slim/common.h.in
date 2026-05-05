@@ -3,6 +3,7 @@
 #define SLIM__COMMON__H
 
 #include <slim/common/log.h>
+#include <slim/SlimValue.hpp>
 
 #define SLIMCOMMON_VERSION "@SLIMCOMMON_VERSION@"
 #define SLIMCOMMON_GIT_HASH "@SLIMCOMMON_GIT_HASH@"
