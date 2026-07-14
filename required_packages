@@ -1,3 +1,20 @@
 # PackageName [minVersion [maxVersion]]
-SlimCommonLog 1.0.8
-SlimValue 0.0.20
+SlimCommonHttp
+SlimCommonHttpCookie
+SlimCommonHttpCookieStore
+SlimCommonHttpHeader
+SlimCommonHttpHeaders
+SlimCommonHttpRequest
+SlimCommonHttpResponse
+SlimCommonHttpUrl
+SlimCommonHttpUrlSearchParam
+SlimCommonHttpUrlSearchParams
+SlimCommonIo
+SlimCommonLog
+SlimCommonMemoryMapper
+SlimCommonNetwork
+SlimCommonNetworkClientHttp
+SlimCommonNetworkClientTcp
+SlimCommonNetworkServerTcp
+SlimCommonTls
+SlimCommonUtilities
